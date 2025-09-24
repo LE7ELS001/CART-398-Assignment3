@@ -1,2 +1,5 @@
-# CART-398-Assignment3
-Simple interaction with Wekinator
+Team: Tianshun Wu, Junming He
+
+We think this kind of system could be used in a more exciting way, like in an interactive exhibition or a live performance. Right now, using just the mouse x and y positions is a bit too simple, so we would expand the inputs to include camera motion tracking and a DJ controller. These could even be controlled by two different people, which makes the interaction more fun. For the outputs, instead of only drum sounds, the system could also trigger melodies, lyrics, and even visuals like motion graphics, so the experience feels more immersive. The training data could include examples of people’s movements as well as button presses from the DJ controller, so the system learns to respond to a variety of actions. Finally, in the mapping design, the camera input could be used as a classification task to pick lyrics, while the DJ controller could control the melody and visuals, like choosing songs or handling transitions. With these changes, the system wouldn’t just be a mouse-to-drum demo, but a multi-user, multi-input interactive performance tool.
+
+online demo: https://youtu.be/TV3kIiAaODg
